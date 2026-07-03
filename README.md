@@ -4,7 +4,7 @@
 
 ### Alex Dufour
 
-Founder & Operator · post-exit Côtelé Paris (2025) · Director, Observatoire de la Transmission @ Institut Sapiens · Building Marryslate · politically engaged @ Horizons
+Founder & Operator · post-exit Côtelé Paris (2025) · Director, Observatoire de la Transmission @ Institut Sapiens · Building things 
 
 </div>
 
