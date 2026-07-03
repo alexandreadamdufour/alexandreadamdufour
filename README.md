@@ -12,7 +12,7 @@ Founder & Operator · post-exit Côtelé Paris (2025) · Director, Observatoire 
 
 ### Currently building
 
-- **Marryslate** — wedding-planning SaaS for the French market.
+- **Secret** — SaaS for the French market.
 - Research lead on SME/PME transmission (succession planning) at Institut Sapiens' *Observatoire de la Transmission*.
 
 ### Stack
