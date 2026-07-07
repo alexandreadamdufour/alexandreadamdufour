@@ -2,23 +2,22 @@
 
 <img src="./banner.svg" alt="Claude Code CLI throwing a Pokéball at Pikachu" width="600" />
 
-### Alexandre Dufour
-
-Founder & Operator · post-exit Côtelé Paris (2025) · Director, Observatoire de la Transmission @ Institut Sapiens · Building things 
-
 </div>
 
 ---
 
-### Currently building
+### Alexandre Dufour
 
-- **Secret** — SaaS for the French market.
-- Research lead on SME/PME transmission (succession planning) at Institut Sapiens' *Observatoire de la Transmission*.
+Fondateur et ex-CEO de **Côtelé Paris** — marque textile premium, 100+ comptes distributeurs (Le Bon Marché, Printemps), cession juillet 2025.
 
-### Stack
+Directeur de l'Observatoire Entrepreneuriat, Repreneuriat et Transmission à l'**Institut Sapiens**. Auteur de la note *La vague de transmission des PME françaises (2025-2035)*.
 
-`Next.js` `TypeScript` `Supabase` `Stripe` `Vercel` `Claude Code` `Serena MCP`
+Aujourd'hui : j'utilise Claude Code comme outil principal de développement. Superviseur, pas vibe-coder — je review chaque diff.
 
-### Contact
+#### Projets publics
+- **[Pink AI](https://pink-ai-eosin.vercel.app)** — SaaS chat multi-LLM (Anthropic + xAI), Clerk, Stripe, Supabase
+- **[ADAM Agency](https://adam-agency-chi.vercel.app)** — site consulting stratégique
 
-[LinkedIn](https://www.linkedin.com/in/alexandredufour1/) · alexandre.a.dufour@gmail.com
+#### Me retrouver
+- [LinkedIn](https://www.linkedin.com/in/alexandredufour/) · 15 300 abonnés
+- [Institut Sapiens](https://www.institutsapiens.fr/)
