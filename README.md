@@ -19,5 +19,5 @@ Aujourd'hui : j'utilise Claude Code comme outil principal de développement. Sup
 - **[ADAM Agency](https://adam-agency-chi.vercel.app)** — site consulting stratégique
 
 #### Me retrouver
-- [LinkedIn](https://www.linkedin.com/in/alexandredufour/) · 15 300 abonnés
+- [LinkedIn](https://www.linkedin.com/in/alexandredufour1/) · 15 300 abonnés
 - [Institut Sapiens](https://www.institutsapiens.fr/)
