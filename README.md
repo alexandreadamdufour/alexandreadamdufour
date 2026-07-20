@@ -17,7 +17,6 @@ Aujourd'hui : j'utilise Claude Code comme outil principal de développement. Sup
 #### Projets publics
 - **[Transmission Radar](https://transmission-radar.vercel.app)** — outil d'intelligence sur les cessions de PME, compagnon de ma note Institut Sapiens
 - **[Matcher 2027](https://matcher-2027.vercel.app)** — MVP de comparateur présidentiel, données fictives, civic-tech
-- **[Pink AI](https://pink-ai-eosin.vercel.app)** — SaaS chat multi-LLM (Anthropic + xAI), Clerk, Stripe, Supabase
 - **[ADAM Agency](https://adam-agency-chi.vercel.app)** — site consulting stratégique
 
 #### Me retrouver
