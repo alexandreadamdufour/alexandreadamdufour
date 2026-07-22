@@ -19,10 +19,12 @@ I treat AI tooling as a core operating skill, not a side interest. Claude Code i
 The goal is simple: stay at the frontier of what these tools make possible, and bring that leverage into whatever I run next, from data pipelines to go-to-market.
 
 #### Live Projects
+
 - **[Transmission Radar](https://transmission-radar.vercel.app)** — SME acquisition intelligence tool, built as a companion to my Institut Sapiens research. BODACC/SIRENE data pipeline to front end.
 - **[Matcher 2027](https://matcher-2027.vercel.app)** — civic-tech MVP of a non-partisan election matching tool. Fictional data, built to explore the format.
 - **[ADAM Agency](https://adam-agency-chi.vercel.app)** — my strategy consulting practice for consumer brand founders.
 
-#### Me retrouver
+#### Find me
+
 - [LinkedIn](https://www.linkedin.com/in/alexandredufour1/) · 15K+ followers
 - [Institut Sapiens](https://www.institutsapiens.fr/)
