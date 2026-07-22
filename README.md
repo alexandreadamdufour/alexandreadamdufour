@@ -12,7 +12,7 @@ Founder and former CEO of **Côtelé Paris** , a premium French consumer brand: 
 
 Director of the Entrepreneurship & Business Transmission Observatory at **Institut Sapiens**, a French economic think tank. Author of The French SME Transmission Wave (2025-2035), presented in parliamentary hearings.
 
-How I work
+#### How I work
 
 I treat AI tooling as a core operating skill, not a side interest. Claude Code is my main development environment: I ship real products with it, and I test every major model and tool release the week it comes out. Supervisor, not vibe-coder: I review every diff.
 
