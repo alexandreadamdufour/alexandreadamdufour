@@ -20,9 +20,10 @@ The goal is simple: stay at the frontier of what these tools make possible, and 
 
 #### Live Projects
 
+- **[Marryslate](https://marryslate.com)** — wedding planning SaaS in production. Next.js 16, Supabase with hardened RLS, Stripe, Clerk. [Source](https://github.com/alexandreadamdufour/marryslate)
 - **[Transmission Radar](https://transmission-radar.vercel.app)** — SME acquisition intelligence tool, built as a companion to my Institut Sapiens research. BODACC/SIRENE data pipeline to front end.
 - **[Matcher 2027](https://matcher-2027.vercel.app)** — civic-tech MVP of a non-partisan election matching tool. Fictional data, built to explore the format.
-- **[ADAM Agency](https://adam-agency-chi.vercel.app)** — my strategy consulting practice for consumer brand founders.
+- **[ADAM Agency](https://adam-agency-chi.vercel.app)** — strategy consulting practice. AI agents and automation deployed for 12 founder-led businesses.
 
 #### Find me
 
